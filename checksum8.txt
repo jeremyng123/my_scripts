@@ -1,0 +1,9 @@
+# What is Checksum8 algorithm?
+
+Cobalt Strike's payloads are based on Meterpreter shellcodes and include many similarities, like
+
+ 1. API hashing, or
+ 2. url query checksum8 algo used in *http/https* payloads
+
+
+checksum8 is also used in other frameworks, like Empire.
