@@ -1,4 +1,4 @@
 pandas
-progressbar
+progressbar2
 python-dotenv
 requests
