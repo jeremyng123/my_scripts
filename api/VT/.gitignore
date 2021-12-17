@@ -1,0 +1,6 @@
+# do not save sensitive files
+.env
+*.txt
+*.json
+*.csv
+!requirements.txt
