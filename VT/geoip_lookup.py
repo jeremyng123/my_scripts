@@ -2,7 +2,7 @@ import requests
 import json
 import progressbar
 import pandas as pd
-from config import *
+from ..config import *
 
 headers = {"Accept": "application/json", "x-apikey": API_KEY}
 
