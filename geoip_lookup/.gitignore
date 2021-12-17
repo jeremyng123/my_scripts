@@ -4,3 +4,4 @@
 *.mmdb
 *.7z
 *.csv
+!requirements.txt

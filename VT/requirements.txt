@@ -1,0 +1,4 @@
+pandas
+progressbar
+python-dotenv
+requests
