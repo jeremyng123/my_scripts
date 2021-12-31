@@ -1,0 +1,3 @@
+[submodule "scan_cs_ips/tek"]
+	path = scan_cs_ips/tek
+	url = https://github.com/jeremyng123/cobaltstrike
