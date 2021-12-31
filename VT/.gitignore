@@ -1,5 +1,0 @@
-# do not save sensitive files
-.env
-*.txt
-*.json
-!requirements.txt

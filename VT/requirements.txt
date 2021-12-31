@@ -1,4 +1,0 @@
-pandas
-progressbar2
-python-dotenv
-requests
