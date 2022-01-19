@@ -4,3 +4,9 @@
 [submodule "capa-rules"]
 	path = capa-rules
 	url = https://github.com/mandiant/capa-rules.git
+[submodule "ida_scripts"]
+	path = ida_scripts
+	url = https://github.com/jeremyng123/idaproscripts.git
+[submodule "for_ida/HexRaysCodeXplorer"]
+	path = for_ida/HexRaysCodeXplorer
+	url = https://github.com/REhints/HexRaysCodeXplorer.git
