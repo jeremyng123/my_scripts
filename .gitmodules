@@ -10,3 +10,6 @@
 [submodule "for_ida/HexRaysCodeXplorer"]
 	path = for_ida/HexRaysCodeXplorer
 	url = https://github.com/REhints/HexRaysCodeXplorer.git
+[submodule "config_extractor/plugx/plugxdecoder"]
+	path = config_extractor/plugx/plugxdecoder
+	url = https://github.com/kcreyts/plugxdecoder.git
