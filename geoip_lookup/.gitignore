@@ -1,7 +1,0 @@
-# do not save sensitive files
-.env
-*.txt
-*.mmdb
-*.7z
-*.csv
-!requirements.txt

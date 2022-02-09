@@ -12,7 +12,7 @@ parentdir = os.path.dirname(currentdir)
 print(parentdir)
 sys.path.append(parentdir)
 
-from config import *
+from api.config import *
 
 headers = {"Accept": "application/json", "x-apikey": API_KEY}
 
