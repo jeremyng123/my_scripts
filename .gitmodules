@@ -13,3 +13,6 @@
 [submodule "config_extractor/plugx/plugxdecoder"]
 	path = config_extractor/plugx/plugxdecoder
 	url = https://github.com/kcreyts/plugxdecoder.git
+[submodule "for_ida/Finger"]
+	path = for_ida/Finger
+	url = https://github.com/aliyunav/Finger.git
