@@ -22,3 +22,6 @@
 [submodule "hashes/jpcert_impfuzzy"]
 	path = hashes/jpcert_impfuzzy
 	url = https://github.com/JPCERTCC/impfuzzy.git
+[submodule "hashes/trendmicro_tlsh"]
+	path = hashes/trendmicro_tlsh
+	url = https://github.com/trendmicro/tlsh.git
