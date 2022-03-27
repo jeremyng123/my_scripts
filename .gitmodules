@@ -16,3 +16,6 @@
 [submodule "for_ida/Finger"]
 	path = for_ida/Finger
 	url = https://github.com/aliyunav/Finger.git
+[submodule "hashes/ImpHash-Generator"]
+	path = hashes/ImpHash-Generator
+	url = https://github.com/jeremyng123/ImpHash-Generator
