@@ -19,3 +19,6 @@
 [submodule "hashes/ImpHash-Generator"]
 	path = hashes/ImpHash-Generator
 	url = https://github.com/jeremyng123/ImpHash-Generator
+[submodule "hashes/jpcert_impfuzzy"]
+	path = hashes/jpcert_impfuzzy
+	url = https://github.com/JPCERTCC/impfuzzy.git

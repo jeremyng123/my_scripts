@@ -1,5 +1,4 @@
 import pefile
-import re
 
 
 def getimphash(filepath, file):
