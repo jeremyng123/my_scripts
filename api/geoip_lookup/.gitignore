@@ -5,3 +5,5 @@
 *.7z
 *.csv
 !requirements.txt
+env
+__pycache__
