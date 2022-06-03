@@ -25,3 +25,9 @@
 [submodule "hashes/trendmicro_tlsh"]
 	path = hashes/trendmicro_tlsh
 	url = https://github.com/trendmicro/tlsh.git
+[submodule "for_ida/IDAGolangHelper"]
+	path = for_ida/IDAGolangHelper
+	url = https://github.com/sibears/IDAGolangHelper.git
+[submodule "for_ida/obpo-plugin"]
+	path = for_ida/obpo-plugin
+	url = https://github.com/obpo-project/obpo-plugin.git

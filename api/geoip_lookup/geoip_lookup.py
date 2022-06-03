@@ -1,7 +1,8 @@
+from tkinter.tix import MAX
 import geoip2.database
 import pandas as pd
 import progressbar
-from ..config import *
+from config import *
 
 # This reader object should be reused across lookups as creation of it is
 # expensive.

@@ -1,5 +1,6 @@
 # do not save sensitive files
 .env
+__pycache__
 *.txt
 *.mmdb
 *.7z
