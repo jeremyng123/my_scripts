@@ -1,8 +1,8 @@
 [submodule "scan_cs_ips/tek"]
 	path = scan_cs_ips/tek
 	url = https://github.com/jeremyng123/cobaltstrike
-[submodule "capa-rules"]
-	path = capa-rules
+[submodule "for_ida/capa-rules"]
+	path = for_ida/capa-rules
 	url = https://github.com/mandiant/capa-rules.git
 [submodule "ida_scripts"]
 	path = ida_scripts
