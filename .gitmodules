@@ -74,3 +74,6 @@
 [submodule "for_ida/findcrypt-yara"]
 	path = for_ida/findcrypt-yara
 	url = https://github.com/polymorf/findcrypt-yara.git
+[submodule "for_ida/theme_dracula"]
+	path = for_ida/theme_dracula
+	url = https://github.com/dracula/ida.git
