@@ -31,3 +31,9 @@
 [submodule "for_ida/obpo-plugin"]
 	path = for_ida/obpo-plugin
 	url = https://github.com/obpo-project/obpo-plugin.git
+[submodule "for_ida/lumen_ida_pro"]
+	path = for_ida/lumen_ida_pro
+	url = https://github.com/naim94a/lumen.git
+[submodule "for_ida/flare-ida"]
+	path = for_ida/flare-ida
+	url = https://github.com/mandiant/flare-ida.git
