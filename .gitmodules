@@ -71,3 +71,6 @@
 [submodule "for_ida/x64dbgida"]
 	path = for_ida/x64dbgida
 	url = https://github.com/x64dbg/x64dbgida.git
+[submodule "for_ida/findcrypt-yara"]
+	path = for_ida/findcrypt-yara
+	url = https://github.com/polymorf/findcrypt-yara.git
