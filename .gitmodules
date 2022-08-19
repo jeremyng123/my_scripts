@@ -77,3 +77,9 @@
 [submodule "for_ida/theme_dracula"]
 	path = for_ida/theme_dracula
 	url = https://github.com/dracula/ida.git
+[submodule "for_ida/IDABeautify"]
+	path = for_ida/IDABeautify
+	url = https://github.com/P4nda0s/IDABeautify.git
+[submodule "for_ida/deobfuscation stuff/d810"]
+	path = for_ida/deobfuscation stuff/d810
+	url = https://github.com/joydo/d810.git
