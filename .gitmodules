@@ -83,3 +83,6 @@
 [submodule "for_ida/deobfuscation stuff/d810"]
 	path = for_ida/deobfuscation stuff/d810
 	url = https://github.com/joydo/d810.git
+[submodule "for_ida/lucid"]
+	path = for_ida/lucid
+	url = https://github.com/gaasedelen/lucid.git
