@@ -66,4 +66,6 @@ def get_emails():
 from passivetotal.analyzer.whois import WhoisField
 
 analyzer.init()
-WhoisField('email', 'oookkkwww@protonmail.com').records.domains
+email = "oookkkwww@protonmail.com"
+# WhoisField('email', email).records.domains
+print(passivetotal_get_whois_email(email))
