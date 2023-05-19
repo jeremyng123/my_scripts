@@ -1,1 +1,4 @@
 SECURITY
+*.dat
+*.json
+env

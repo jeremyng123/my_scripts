@@ -86,3 +86,6 @@
 [submodule "for_ida/lucid"]
 	path = for_ida/lucid
 	url = https://github.com/gaasedelen/lucid.git
+[submodule "INDXParse"]
+	path = INDXParse
+	url = https://github.com/williballenthin/INDXParse.git
