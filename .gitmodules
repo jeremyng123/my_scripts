@@ -89,3 +89,12 @@
 [submodule "INDXParse"]
 	path = INDXParse
 	url = https://github.com/williballenthin/INDXParse.git
+[submodule "for_ida/IDA-WindbGlue"]
+	path = for_ida/IDA-WindbGlue
+	url = https://github.com/BenH11235/IDA-WindbGlue.git
+[submodule "for_ida/qsynthesis"]
+	path = for_ida/qsynthesis
+	url = https://github.com/quarkslab/qsynthesis
+[submodule "for_ida/leveldb"]
+	path = for_ida/leveldb
+	url = https://github.com/google/leveldb.git
