@@ -98,3 +98,6 @@
 [submodule "for_ida/leveldb"]
 	path = for_ida/leveldb
 	url = https://github.com/google/leveldb.git
+[submodule "for_ida/ret-sync"]
+	path = for_ida/ret-sync
+	url = https://github.com/bootleg/ret-sync.git
