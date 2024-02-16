@@ -53,9 +53,6 @@
 [submodule "for_ida/hexcopy-ida"]
 	path = for_ida/hexcopy-ida
 	url = https://github.com/OALabs/hexcopy-ida.git
-[submodule "for_ida/capa"]
-	path = for_ida/capa
-	url = https://github.com/mandiant/capa.git
 [submodule "for_ida/FLIRTDB"]
 	path = for_ida/FLIRTDB
 	url = https://github.com/Maktm/FLIRTDB.git
@@ -101,3 +98,6 @@
 [submodule "for_ida/ret-sync"]
 	path = for_ida/ret-sync
 	url = https://github.com/bootleg/ret-sync.git
+[submodule "for_ida/capa"]
+	path = for_ida/capa
+	url = https://github.com/mandiant/capa.git
